@@ -6,9 +6,11 @@ class Solution {
 
         while(i < j){
 
-            if((numbers[i] + numbers[j]) == target){
+            int currentSum = numbers[i] + numbers[j];
+
+            if(currentSum == target){
                 return new int[] {i +1, j+1};
-            }else if((numbers[i] + numbers[j]) < target){
+            }else if(currentSum < target){
                 i++;
             }else{
                 j--;
