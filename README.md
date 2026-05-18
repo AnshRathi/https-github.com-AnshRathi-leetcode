@@ -33,14 +33,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
