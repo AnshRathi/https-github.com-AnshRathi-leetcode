@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
