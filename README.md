@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
