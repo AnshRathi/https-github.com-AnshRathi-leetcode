@@ -1,33 +1,31 @@
 class Solution {
     public String countAndSay(int n) {
-        // Base Case
         if (n == 1) return "1";
         
-        // Start with the sequence for n = 1
+        // Start with the base sequence for n = 1
         String currentString = "1";
         
-        // Iteratively generate the sequence up to n
+        // Iteratively generate sequences from 2 up to n
         for (int i = 2; i <= n; i++) {
             StringBuilder nextStringBuilder = new StringBuilder();
             int len = currentString.length();
             int j = 0;
             
-            // Step-by-step reading of the current string
             while (j < len) {
                 char currentChar = currentString.charAt(j);
                 int count = 0;
                 
-                // Count how many times this character repeats consecutively
+                // Count consecutive occurrences of currentChar
                 while (j < len && currentString.charAt(j) == currentChar) {
                     count++;
-                    j++; // Advance the pointer safely
+                    j++; 
                 }
                 
-                // Append the [Count][Character]
+                // Construct the "Say" segment: [Count][Character]
                 nextStringBuilder.append(count).append(currentChar);
             }
             
-            // Update currentString to the newly generated sequence
+            // Move to the next string sequence
             currentString = nextStringBuilder.toString();
         }
         
