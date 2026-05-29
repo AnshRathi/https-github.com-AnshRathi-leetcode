@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0070-climbing-stairs) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
