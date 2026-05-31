@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0070-climbing-stairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AnshRathi/https-github.com-AnshRathi-leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
