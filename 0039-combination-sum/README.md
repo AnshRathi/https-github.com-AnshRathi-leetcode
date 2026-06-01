@@ -5,7 +5,7 @@
 <p>The test cases are generated such that the number of unique combinations that sum up to <code>target</code> is less than <code>150</code> combinations for the given input.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example 1:-</strong></p>
 
 <pre>
 <strong>Input:</strong> candidates = [2,3,6,7], target = 7
