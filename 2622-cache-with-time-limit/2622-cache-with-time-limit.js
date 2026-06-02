@@ -2,7 +2,7 @@ var TimeLimitedCache = function() {
     this.cache = new Map(); // Stores key -> { value, timeoutId }
 };
 
-/** * @param {number} key
+/** * @param {number} key JS Question
  * @param {number} value
  * @param {number} duration time until expiration in ms
  * @return {boolean} if a un-expired key already existed
